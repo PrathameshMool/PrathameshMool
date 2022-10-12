@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about data
 - 🌱 I’m currently taking my steps in learning data related skills and project management
 - 💞️ I’m looking to collaborate on any projects even if i have to add semi colon i am up for collab.
-- 📫 How to reach me ...
+- 📫 How to reach me mail: moolprathamwesh@gmail.com 
 
 <!---
 PrathameshMool/PrathameshMool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
