@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Mool</h1>
-<h3 align="center">I am A Passionate Student of Data, Data Analysis and Machine Learning</h3>
+<h3 align="center">I am A Student of Data, Data Analysis, and Machine Learning</h3>
 
-- 🌱 I’m currently learning **Data Engineering, Data Analysis, TensorFLow, Power BI, Machine learning**
+- 🌱 I’m currently learning **Data Engineering, Data Analysis, TensorFlow, Power BI, and Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrathameshMool](https://github.com/PrathameshMool)
 
