@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **prathameshmool@outlook.com**
 
-- ⚡ Fun fact **I produce Music Roo**
+- ⚡ Fun fact **I produce Music too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
